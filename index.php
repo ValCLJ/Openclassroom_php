@@ -22,7 +22,7 @@ $users = [
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Affichage des recettes</title>
+    <title>Affichage des recettes !</title>
 </head>
 <body>
     <ul>
